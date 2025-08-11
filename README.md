@@ -47,8 +47,8 @@ La base de datos cuenta con la siguiente información:
 
 La actividad va de 3 documentos:
 
-[reporte html](https://github.com/omarbalcazar-dot/A1.1-Aprendizaje-estad-sticoautom-tico/blob/main/A1.1_652911%20(1).html)
+[reporte html](A1.1_652911(1).html)
 
-[reporte ipynb](https://github.com/omarbalcazar-dot/A1.1-Aprendizaje-estad-sticoautom-tico/blob/main/A1.1_652911.ipynb)
+[reporte ipynb]()
 
 [reporte Obesidad.cvs](https://github.com/omarbalcazar-dot/A1.1-Aprendizaje-estad-sticoautom-tico/blob/main/Obesidad.csv)
