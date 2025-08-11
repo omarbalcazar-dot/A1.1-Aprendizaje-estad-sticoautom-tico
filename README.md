@@ -47,7 +47,7 @@ La base de datos cuenta con la siguiente información:
 
 La actividad va de 3 documentos:
 
-[reporte html](A1.1_652911 (1).html)
+[reporte html](https://github.com/omarbalcazar-dot/A1.1-Aprendizaje-estad-sticoautom-tico/blob/main/A1.1_652911%20(1).html)
 
 [reporte ipynb](A1.1_652911.ipynb)
 
