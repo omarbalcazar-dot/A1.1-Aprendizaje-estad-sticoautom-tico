@@ -47,8 +47,8 @@ La base de datos cuenta con la siguiente información:
 
 La actividad va de 3 documentos:
 
-[reporte html](A1.1_652911(1).html)
+[reporte html]()
 
-[reporte ipynb](A1.1_652911.ipynb)
+[reporte ipynb]()
 
-[reporte Obesidad.cvs](Obesidad.csv)
+[reporte Obesidad.cvs]()
