@@ -44,8 +44,8 @@ La base de datos cuenta con la siguiente información:
   (Obesity_Type_III) para valores superiores a 40.0.
 
 La actividad va de 3 documentos:
-[reporte en ipynb](https://github.com/omarbalcazar-dot/A1.1-Aprendizaje-estad-sticoautom-tico/blob/main/A1.1_652911%20(1).html)
+[reporte html](https://github.com/omarbalcazar-dot/A1.1-Aprendizaje-estad-sticoautom-tico/blob/main/A1.1_652911%20(1).html)
 
-[reporte en ipynb]()
+[reporte ipynb](https://github.com/omarbalcazar-dot/A1.1-Aprendizaje-estad-sticoautom-tico/blob/main/A1.1_652911.ipynb)
 
-[reporte en ipynb]()
+[reporte Obesidad.cvs](https://github.com/omarbalcazar-dot/A1.1-Aprendizaje-estad-sticoautom-tico/blob/main/Obesidad.csv)
